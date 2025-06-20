@@ -43,3 +43,10 @@ It solves delivery drone routing problems using uninformed and informed search s
 ```prolog
 ?- consult('drone_routing').
 ```
+
+## 👥 Team Members
+
+- Israa Mohamed
+- Amany Mohamed
+- Salma Mohamed
+- Rana Ibrahim
